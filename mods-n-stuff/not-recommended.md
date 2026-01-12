@@ -93,6 +93,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | FeyTweaks | Mostly redundant with ImmediatelyFast |
 | FPS Boost | Fake mod, doesn't provide any performance improvements |
 | GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
+| HariChunk | No significant improvements over C2ME |
 | Icterine | Redundant with Cerulean |
 | Ksyxis | Removes spawn chunks |
 | lazy-language-loader | Redundant with Language Reload |
@@ -283,6 +284,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Mod | Reason |
 |:---:|:---:|
 | AI Improvements | Redundant with UniversalTweaks |
+| Better Biome Blend Continued | AI-generated, no significant changes over the original |
 | BettererBiomerBlender | Doesn't actually fix any issues with the original mod |
 | BetterFPS | Compatibility issues, negligible performance improvement |
 | Born in a Barn | Redundant, fix already present in Forge/Cleanroom |
@@ -314,6 +316,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | CoFH Tweaks | Redundant with ArchaicFix |
 | FastCraft | Incompatible with Angelica |
 | Flying Cullers | Incompatible with Beddium |
+| FpsPlus | Compatibility issues, negligible performance improvement |
 | LeafCulling | Redundant with Angelica/NotFine |
 | Neodymium | Incompatible with Angelica/Beddium |
 | OptiFine | [Various reasons](opti-not-so-fine.md) |
